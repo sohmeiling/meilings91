@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @meilings91, a PhD student at University of Nottingham, Malaysia.
-- 👀 I’m interested in numerical cognition, learning difficulties, neuroimaging techniques (MRI, fMRI, EEG, PET) as well as education policy in Asia. 
-- 🌱 I’m currently learning R and Python (really really beginner level).
-- 💞️ I’m looking to collaborate on any cross-cultural research on mathematics learning/numerical cognition.
-- 📫 How to reach me? You can reach me through Twitter (@sohmeiling)
+* 👋 Hi, I’m **Mei Ling Soh** (@sohmeiling), a PhD graduate in Psychology from the **University of Nottingham Malaysia**.
+
+* 🧠 My research focuses on **numerical cognition**, **mathematics learning difficulties**, and the cognitive mechanisms underlying arithmetic fluency.
+
+* 🧪 I am also interested in **neuroimaging methods**, including **MRI, fMRI, EEG, and PET**, as tools for studying cognition and learning.
+
+* 📊 I work with quantitative methods and use **R** and **Python** for data analysis, statistics, and research workflows.
+
+* 🌏 I am interested in **cross-cultural collaborations** in mathematics learning, educational psychology, and numerical cognition.
+
+* 📚 Current interests include arithmetic fluency, bilingualism and mathematics, educational inequality, and cognitive development in Asia.
+
+* 📫 You can reach me via **X / Twitter**: [@sohmeiling](https://twitter.com/sohmeiling)
 
 <!---
 meilings91/meilings91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
